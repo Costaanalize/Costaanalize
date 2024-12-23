@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Costaanalize  
-- 👀 I’m interested in data analysis, automation, and optimizing workflows.  
-- 🌱 I’m currently learning advanced Python techniques and exploring tools like BeautifulSoup, Requests, and APIs for data collection and processing.  
-- 💞️ I’m looking to collaborate on projects related to data automation, web scraping, and building dashboards.  
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I can turn messy datasets into valuable insights faster than a cup of coffee kicks in!  
+- 👀 I’m interested in:  
+  - Data automation and optimization of repetitive processes.  
+  - Web scraping with tools like **BeautifulSoup** and **Requests**.  
+  - Developing scripts to integrate and process data from APIs.  
+  - Building dynamic dashboards and automated reports.  
+  - Data analysis and visualization using tools like **Google Sheets** and **Pandas**.  
+
+- 🌱 I’m currently learning:  
+  - Advanced techniques in **Python** 🐍 for data manipulation.  
+  - Efficient data pipeline creation for handling large datasets.  
+  - Modern frameworks for web scraping and ETL processes.  
+  - Leveraging cloud services (e.g., AWS, Google Cloud) for data storage and processing.  
+
+- 💞️ I’m looking to collaborate on:  
+  - Open-source projects related to data analysis and automation.  
+  - Building tools for extracting and transforming online data into actionable insights.  
+  - Innovative projects that blend automation with creative problem-solving.  
