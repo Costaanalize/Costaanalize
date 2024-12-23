@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Costaanalize  
+- 👀 I’m interested in data analysis, automation, and optimizing workflows.  
+- 🌱 I’m currently learning advanced Python techniques and exploring tools like BeautifulSoup, Requests, and APIs for data collection and processing.  
+- 💞️ I’m looking to collaborate on projects related to data automation, web scraping, and building dashboards.  
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can turn messy datasets into valuable insights faster than a cup of coffee kicks in!  
